@@ -1,0 +1,12 @@
+ 
+ @use '../../scss/variables';
+ 
+ 
+ .content{
+    max-width: 560px;
+    margin: 50px auto;
+    background-color: variables.$light-green-color;
+    padding: 2rem;
+    box-shadow: 5px 5px 10px gray;
+
+ }
