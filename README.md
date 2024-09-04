@@ -15,7 +15,7 @@
     <a href="https://github.com/ibrsec/employee-list"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://employee-list-neon.vercel.app/">View Demo</a>
+    <a href="https://employee-list-ibr.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/employee-list/issues">Report Bug</a>
     ·
